@@ -1,0 +1,3 @@
+﻿  DefiningAndCreatingThreeRandomNumber.cpp
+C:\Users\Beverly McGee\source\repos\DefiningAndCreatingThreeRandomNumber\DefiningAndCreatingThreeRandomNumber.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DefiningAndCreatingThreeRandomNumber.vcxproj -> C:\Users\Beverly McGee\source\repos\DefiningAndCreatingThreeRandomNumber\Debug\DefiningAndCreatingThreeRandomNumber.exe
