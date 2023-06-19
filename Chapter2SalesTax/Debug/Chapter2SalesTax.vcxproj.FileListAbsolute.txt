@@ -1,0 +1,2 @@
+C:\Users\Beverly McGee\source\repos\Chapter2SalesTax\Debug\Chapter2SalesTax.exe
+C:\Users\Beverly McGee\source\repos\Chapter2SalesTax\Debug\Chapter2SalesTax.pdb
