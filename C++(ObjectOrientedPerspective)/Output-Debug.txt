@@ -1,0 +1,19 @@
+﻿'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Users\Beverly McGee\source\repos\Chapter2(AreaOfASquare)\Debug\Chapter2(AreaOfASquare).exe'. Symbols loaded.
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2548 has exited with code 0 (0x0).
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Chapter2(AreaOfASquare).exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x740 has exited with code 0 (0x0).
+The thread 0x22f4 has exited with code 0 (0x0).
+The thread 0x274c has exited with code 0 (0x0).
+The program '[11720] Chapter2(AreaOfASquare).exe' has exited with code 0 (0x0).
