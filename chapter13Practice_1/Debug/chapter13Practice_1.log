@@ -1,0 +1,3 @@
+﻿  chapter13Practice_1.cpp
+C:\Users\Beverly McGee\source\repos\chapter13Practice_1\chapter13Practice_1.cpp(12,4): warning C4552: '<<': result of expression not used
+C:\Users\Beverly McGee\source\repos\chapter13Practice_1\chapter13Practice_1.cpp(13): error C4700: uninitialized local variable 'x' used
