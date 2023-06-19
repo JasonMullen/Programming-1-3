@@ -1,0 +1,2 @@
+C:\Users\Beverly McGee\source\repos\chapter5PracticeWork(caloriesBurned)\Debug\chapter5PracticeWork(caloriesBurned).exe
+C:\Users\Beverly McGee\source\repos\chapter5PracticeWork(caloriesBurned)\Debug\chapter5PracticeWork(caloriesBurned).pdb
