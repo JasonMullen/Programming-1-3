@@ -1,0 +1,2 @@
+C:\Users\Beverly McGee\source\repos\AverageRainFall\Debug\AverageRainFall.exe
+C:\Users\Beverly McGee\source\repos\AverageRainFall\Debug\AverageRainFall.pdb
