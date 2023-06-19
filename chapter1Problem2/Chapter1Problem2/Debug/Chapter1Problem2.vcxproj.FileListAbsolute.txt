@@ -1,0 +1,2 @@
+C:\Users\Beverly McGee\source\repos\Chapter1Problem2\Debug\Chapter1Problem2.exe.lastcodeanalysissucceeded
+C:\Users\Beverly McGee\source\repos\Chapter1Problem2\Chapter1Problem2\Debug\NativeCodeAnalysis.read.1.tlog
