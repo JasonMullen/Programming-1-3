@@ -1,0 +1,2 @@
+C:\Users\Beverly McGee\source\repos\stadiumSeating\Debug\stadiumSeating.exe
+C:\Users\Beverly McGee\source\repos\stadiumSeating\Debug\stadiumSeating.pdb

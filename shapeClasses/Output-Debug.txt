@@ -1,0 +1,19 @@
+﻿'shapeClasses.exe' (Win32): Loaded 'C:\Users\Beverly McGee\source\repos\shapeClasses\Debug\shapeClasses.exe'. Symbols loaded.
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3e28 has exited with code 0 (0x0).
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'shapeClasses.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x28a4 has exited with code 0 (0x0).
+The thread 0x179c has exited with code 0 (0x0).
+The thread 0x1104 has exited with code 0 (0x0).
+The program '[12216] shapeClasses.exe' has exited with code 0 (0x0).
