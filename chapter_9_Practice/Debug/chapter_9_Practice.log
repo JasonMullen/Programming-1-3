@@ -1,0 +1,3 @@
+﻿  chapter_9_Practice.cpp
+C:\Users\Beverly McGee\source\repos\chapter_9_Practice\chapter_9_Practice.cpp(22,6): warning C4101: 'counter': unreferenced local variable
+  chapter_9_Practice.vcxproj -> C:\Users\Beverly McGee\source\repos\chapter_9_Practice\Debug\chapter_9_Practice.exe

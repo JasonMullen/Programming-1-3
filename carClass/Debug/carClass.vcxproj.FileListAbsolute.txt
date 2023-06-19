@@ -1,0 +1,2 @@
+C:\Users\Beverly McGee\source\repos\carClass\Debug\carClass.exe
+C:\Users\Beverly McGee\source\repos\carClass\Debug\carClass.pdb
