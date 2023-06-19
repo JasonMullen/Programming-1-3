@@ -1,0 +1,4 @@
+﻿  Chapter5Problems(ASCIICodes).cpp
+C:\Users\Beverly McGee\source\repos\Chapter5Problems(ASCIICodes)\Chapter5Problems(ASCIICodes).cpp(13,10): warning C4101: 'a': unreferenced local variable
+C:\Users\Beverly McGee\source\repos\Chapter5Problems(ASCIICodes)\Chapter5Problems(ASCIICodes).cpp(16,17): warning C4101: 'a': unreferenced local variable
+  Chapter5Problems(ASCIICodes).vcxproj -> C:\Users\Beverly McGee\source\repos\Chapter5Problems(ASCIICodes)\Debug\Chapter5Problems(ASCIICodes).exe

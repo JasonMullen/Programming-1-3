@@ -1,0 +1,2 @@
+C:\Users\Beverly McGee\source\repos\Chapter5TextBookProblem(seriesCalculations)\Debug\Chapter5TextBookProblem(seriesCalculations).exe
+C:\Users\Beverly McGee\source\repos\Chapter5TextBookProblem(seriesCalculations)\Debug\Chapter5TextBookProblem(seriesCalculations).pdb
